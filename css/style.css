@@ -1,8 +1,4 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+@import url("header.css");
 
 :root {
     --bg: #EBECEE;
@@ -11,4 +7,3 @@
 body {
     background-color: var(--bg);
 }
-
